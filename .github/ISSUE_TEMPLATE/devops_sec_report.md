@@ -8,15 +8,10 @@ assignees: ''
 ---
 
 **Description:**
-A clear and concise description of the vulnerability and how it was discovered.
+A concise description of what the identified incident is and its potential impact.
 
-**Acceptance:**
-- [ ] Acceptance Criteria 
-- [ ] Acceptance Criteria 
-- [ ] Acceptance Criteria 
+**Rationale:**
+A set of reasons or a logical basis for the course of action.
 
-**Implementation Notes:**
-A clear and concise description of any implementation details to be considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Remediation:**
+What actions you are taking (or have taken) to fix the incident.
