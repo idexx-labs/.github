@@ -7,11 +7,14 @@ assignees: ''
 
 ---
 
-**Description:**
+### Description
+
 A concise description of what the identified incident is and its potential impact.
 
-**Rationale:**
+#### Rationale
+
 A set of reasons or a logical basis for the course of action.
 
-**Remediation:**
+#### Remediation
+
 What actions you are taking (or have taken) to fix the incident.
